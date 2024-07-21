@@ -1,0 +1,57 @@
+{
+  "bot": {
+    "license": "KEYAUTH-Dead-Fetcher-king-gqCzDE-35xK48-TXuulk"
+  },
+  "proxyless": true,
+  "timeout": 60,
+  "capService": "capmonster",
+  "capKey": "Enter Your capmonster key here", 
+  "inviteFieldName": "Invite", 
+  "live_stock_msg_channelID": "",
+  "port" : "8080",
+  "paypal_email": "Not Applicable",
+  "discordSettings": {
+    "token": "Enter Your Bot Token here",
+    "botStatus": "watching",
+    "botActivity": "Boost Bot",
+    "supportServer": "https://discord.gg/",
+    "guildID": "Your Server ID",
+    "owners": ["Your ID"],
+    "embedColor": "111111",
+    "logsChannel": "Log Channel ID"
+  },
+  "customPersonalization": {
+    "onliner":true,
+    "displayName" : "Boost tool",
+    "customBio": "Buy Boosts & Tools & Boost Bot ",
+    "customPfp": ["avatar.png"],
+    "customBanner": ["banner.png"],
+    "status": ["Boost & Tools"],
+    "statusEmoji": [""]
+  },
+  "sellixAutomationSettings": {
+    "enabled": false,
+    "shopName": "",
+    "apiKey": "",
+    "productSettings": {
+      "3_Month_Product_ID": "",
+      "3_Month_Product_Price" : 1,
+      "1_Month_Product_ID": "",
+      "1_Month_Product_Price" : 1
+    }
+  },
+  "sellappAutomationSettings": {
+    "enabled": false,
+    "apiKey": "",
+    "productSettings": {
+      "3_Month_Product_ID": "",
+      "1_Month_Product_ID": ""
+    }
+  },
+  "sellpassAutomationSettings": {
+    "enabled": false,
+    "apiKey": ""
+  }
+ 
+}
+
